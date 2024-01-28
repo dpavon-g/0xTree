@@ -15,11 +15,12 @@ Using blockchain immutability technology we achieve data persistence ensuring th
 Blockchain native Family tree utility powered by the polygon network
 
 ## Powered by
-- The Polygon network
-- Deployed on Vottun.com
-- Solidity smart contracts
-- Flask
-- Docker
+
+- [The Polygon network](https://polygon.technology/)
+- [Vottun](https://vottun.com/)
+- [Solidity](https://solidity-es.readthedocs.io/es/latest/)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/)
+- [Docker](https://www.docker.com/)
 
 ## Authors
 
