@@ -1,6 +1,6 @@
 # 0xTree : BlockChain Family tree
 
-Know the entire history of your ancestors, and build yours with the security of persistence that blockchain technology offers us
+*Know the entire history of your ancestors, and build yours with the security of persistence that blockchain technology offers us*
 
 ## Problem
 
